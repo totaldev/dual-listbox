@@ -13,3 +13,4 @@ ratings:
 exclude_paths:
 - node_modules/**/*
 - test/**/*
+- karma.conf.js
