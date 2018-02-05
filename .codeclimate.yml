@@ -1,15 +1,12 @@
 ---
-engines:
-  rubocop:
-    enabled: false
+plugins:
   eslint:
     enabled: true
-  csslint:
+  scss-lint:
     enabled: true
 ratings:
   paths:
-  - "**.js"
-  - "**.scss"
+  - "src/**"
 exclude_paths:
 - node_modules/**/*
 - test/**/*
