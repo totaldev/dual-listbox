@@ -1,0 +1,19 @@
+{
+    "name": "totaldev/dual-listbox",
+    "description": "Native JS dual list box",
+    "keywords": [
+        "js",
+        "dual list",
+        "listbox"
+    ],
+    "type": "js-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "maykinmedia"
+        },
+        {
+            "name": "totaldev"
+        }
+    ]
+}
